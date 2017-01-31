@@ -3,3 +3,4 @@ Lägger till lite extra text.
 Okej, en gång till.
 
 Nu lägger jag till extra text igen.
+Lägger till text i PeterBranchFile
