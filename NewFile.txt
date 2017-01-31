@@ -4,3 +4,5 @@ Peter har bättre statistik än Fredrik i poängligan
 Fredrik har bättre statestik än Peter!!!
 Fredrik har bara 6 assists medan jag har 8 assists. Det är viktig information!
 Skriver en silly type in the commit message.
+
+Lägger till extra text här också.
