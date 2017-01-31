@@ -1,3 +1,5 @@
 ﻿PeterBranchFile.txt
 Lägger till lite extra text.
 Okej, en gång till.
+
+Nu lägger jag till extra text igen.
