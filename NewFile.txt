@@ -8,3 +8,5 @@ Skriver en silly type in the commit message.
 Lägger till extra text här också.
 
 Bla bla bla
+
+Lägger till i master
